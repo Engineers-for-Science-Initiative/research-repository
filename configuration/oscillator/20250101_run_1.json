@@ -1,0 +1,9 @@
+{
+  "date": "20250101",
+  "description": "First run of the harmonic oscillator experiment on January 1st, 2025.",
+  "parameters":
+  {
+    "k": 1.0,
+    "k_unit": "N/m"
+  }
+}
